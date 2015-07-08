@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nano Portfolio Zero</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_title">My Portfolio Apps</string>
+
+    <!-- Main Menu button text -->
+    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="scores_app">Sports Scores</string>
+    <string name="scores_library">Sport Scores Library</string>
+    <string name="build_it_bigger">Build It Bigger</string>
+    <string name="xyz_reader">XYZ Reader</string>
+    <string name="capstone_app">Capstone Project</string>
+
+    <string name="toast_message">Launch the %s App</string>
+</resources>
